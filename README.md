@@ -38,21 +38,21 @@ The Home screen displays the list of food items in a grid view, with each food i
 <!-- The app is designed to be scalable and modular, with a clean and organized codebase. The backend API is implemented using Express.js and Mongoose, with separate controllers and models for each component. The frontend is implemented using React, with separate components for each screen and functionality.-->
 
 ## Screenshot-
--Home Page
-<img width="415" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/cd932604-995d-4a21-91c9-d14f0207dd13">
+- Home Page
+<img width="1000" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/cd932604-995d-4a21-91c9-d14f0207dd13">
 
--Menu
-<img width="416" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/9dbc87b8-6c7b-4def-8635-836ca7c2e1c0">
-<img width="416" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/88560fcf-5d33-4ac0-97a1-b41dce098c9a">
+- Menu
+<img width="1000" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/9dbc87b8-6c7b-4def-8635-836ca7c2e1c0">
+<img width="1000" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/88560fcf-5d33-4ac0-97a1-b41dce098c9a">
 
--SignUp Page
-<img width="415" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/9d4ab29b-55cc-485f-821a-3eb37fa94fce">
+- SignUp Page
+<img width="1000" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/9d4ab29b-55cc-485f-821a-3eb37fa94fce">
 
--Login Page
-<img width="415" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/6beea5f9-8fd2-4950-9455-74602e151e6f">
+- Login Page
+<img width="1000" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/6beea5f9-8fd2-4950-9455-74602e151e6f">
 
--Cart
-<img width="416" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/1b613b98-6abe-42a2-a50e-82dfe4e66324">
+- Cart
+<img width="1000" alt="image" src="https://github.com/Shikha954/TasteChef/assets/84771860/1b613b98-6abe-42a2-a50e-82dfe4e66324">
 
 
 
